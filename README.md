@@ -2,6 +2,9 @@
 
 https://public.tableau.com/views/TableauProject-1_17635862308890/DeliveryTermsAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+<img width="1054" height="602" alt="image" src="https://github.com/user-attachments/assets/a630e380-9b3e-4cc4-95bd-ae7039d2f245" />
+
+
 Tools: Tableau Public, Excel,  public Dataset Superstore Sales.
 
 Description: study of sales dynamics, analysis of assortment and delivery terms to improve profitability. 
@@ -14,6 +17,9 @@ Results: identified unprofitable subcategories of goods, proposed to revise the 
 # Customer Journey Analysis
 
 https://public.tableau.com/views/TableauProject-2_17638977535260/ProductOnboardingFunnel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="1064" height="636" alt="image" src="https://github.com/user-attachments/assets/567ff475-eaf9-4317-ae11-d0d141c2cfd9" />
+
 
 Tools: Tableau Public, Excel.
 
